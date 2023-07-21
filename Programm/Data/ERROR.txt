@@ -1,0 +1,16 @@
+ERROR| Data to MEASUREMENTS Table sorting not clean: Both numeric & non-numeric values detected in one file:
+ERROR|Errorous float value detected in place which should be float K0001
+ERROR|Errorous float value detected in place which should be float K2101
+ERROR|Could not find module in path or in K1087 to build id
+ERROR|MaterialNR/ K1001 is longer than smalles HANA field ITEM in Production LOG + likely faulty. Shortening it to 35Value|No value available for the provided type (internal type number from plc is 0)!
+ERROR|SetDateProperty:datetime is not in a recognized format( neither Q-Format, not TKS Standard! Value|No value available for the provided type/variant (variant number from plc is 0)!
+ERROR|Errorous float value detected in place which should be float K2113|No value available for the provided type/variant!
+ERROR|Errorous float value detected in place which should be float K2111|No value available for the provided type/variant!
+ERROR|Limited Sorting of subcomponents or DMC: Failure when getting additional config-info for the plant & machine in the path from the Azure table, configtabledict = None:
+ERROR|Errorous float value detected in place which should be float K2111|<LR_RPS_F32_RPS_f32_SEC_MR_OFFS_OTG>
+ERROR|SetDateProperty:datetime is not in a recognized format( neither Q-Format, not TKS Standard! Value
+ERROR|MSN not unique! Could cause data loss! OnlyZero #MSN detected Is KEY value| 00000000000
+ERROR|Errorous float value detected in place which should be float K2111
+ERROR|A Timestamp is in the future. Referenceutc time of parsing:
+ERROR| Could not extract machine from path
+ERROR|K1083 is not numeric, attemt defaulting to path, K1083: xxx

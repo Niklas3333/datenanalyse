@@ -1,0 +1,11 @@
+EXCEPTION|EXCEPTION|Cleaning |EXCEPTION|Bad #MSN detected which is not numeric (letter at last pos is permissable) Is KEY value| NOK-Quitt
+EXCEPTION|EXCEPTION|PassageType:Could not extract /find passageType from path. KEY Field is missing. Path:
+EXCEPTION|||EXCEPTION|Cleaning |'K0001'
+EXCEPTION|||EXCEPTION|Conversion |EXCEPTION|Timestamp is more than 24h in the future, aborting. Reference utc time of parsing:
+EXCEPTION|||EXCEPTION|Building|EXCEPTION|ressource = KEY module nr val invalid. modulenr:  faulty. Machine must have a module (machine not in exeption list of machines with no modules).
+EXCEPTION|EXCEPTION|Building|EXCEPTION|ressource = KEY val invalid.
+EXCEPTION|||EXCEPTION|Cleaning |name 'bla' is not defined
+EXCEPTION|||EXCEPTION|Cleaning |'str' object has no attribute 'strptime
+EXCEPTION|||EXCEPTION|Building|name 'NULL' is not defined
+EXCEPTION|||EXCEPTION|Cleaning |can only concatenate str (not "int") to str
+EXCEPTION|||EXCEPTION|Building|__valDate() takes 1 positional argument but 2 were given

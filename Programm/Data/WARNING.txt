@@ -1,0 +1,17 @@
+WARNING|K2101 Could not use it to recover K2110 limit
+WARNING|Limit violation field missing, could not determine limit violations
+WARNING|ParameterType set to None
+WARNING|ID field build with msn that may not support unique ID values|NOTDEFINED|
+WARNING| MSN is set as not defined, SFCs and other elements may not be unique !|msn|#NOT-DEFINED
+WARNING| MSN is set as not defined, SFCs and other elements may not be unique !|msn|#not defined
+WARNING|K2101 Could not use it to recover K2111 limit
+WARNING|ModuleNr >99. Ensure no Resource collisions.
+WARNING|K2112 Could not use it to recover K2110 limit
+WARNING|K2113 Could not use it to recover K2111 limit
+WARNING|MaterialNr/ K1001 may not be valid due it not having at least 3 consecuitive digits Value|No value available for the provided
+WARNING|ModuleNr length larger than 3. Ensure no Resource collisions.
+WARNING|MaterialNr/ K1001 may not be valid due it not having at least 3 consecuitive digits Value|Versuch Tesla
+WARNING|MSN likely not unique! OnlyZero #MSN detected Is KEY value| 00000000000
+WARNING| Data to MEASUREMENTS Table sorting not clean: Both numeric & non-numeric values detected in one file:
+WARNING| MSN is set as not defined, SFCs and other elements may not be unique !|msn|#NOTDEFINED
+WARNING|MaterialNr/ K1001 may not be valid due it not having at least 3 consecuitive digits Value|1

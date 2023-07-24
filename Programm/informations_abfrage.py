@@ -301,5 +301,5 @@ class CSVQueryApp(tk.Tk):
         self.iconify()
 
 if __name__ == "__main__":
-    app = CSVQueryApp()
+    app = CSVQueryApp()s
     app.mainloop()
